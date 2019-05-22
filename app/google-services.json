@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "668849812154",
+    "firebase_url": "https://realproject-f2ee0.firebaseio.com",
+    "project_id": "realproject-f2ee0",
+    "storage_bucket": "realproject-f2ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668849812154:android:1cf52529b523a163",
+        "android_client_info": {
+          "package_name": "com.example.justlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668849812154-t3j4de7t0tpq8946iab2chlff9pt6dd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justlogin",
+            "certificate_hash": "dadf87975de5b82377229ad31e042947c67cb5cd"
+          }
+        },
+        {
+          "client_id": "668849812154-95jkrtas1q11qhqpnfermnk2qg76aktm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlhdIXNLesUrD0HSsHdiiZaGCk5EY6zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668849812154-95jkrtas1q11qhqpnfermnk2qg76aktm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668849812154:android:eafcc767e8d18e88",
+        "android_client_info": {
+          "package_name": "com.example.ourproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668849812154-t73c59okh6f1vi2qhdd0q4cade0j96ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ourproject",
+            "certificate_hash": "dadf87975de5b82377229ad31e042947c67cb5cd"
+          }
+        },
+        {
+          "client_id": "668849812154-95jkrtas1q11qhqpnfermnk2qg76aktm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlhdIXNLesUrD0HSsHdiiZaGCk5EY6zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668849812154-95jkrtas1q11qhqpnfermnk2qg76aktm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668849812154:android:8f886065ac1b7299",
+        "android_client_info": {
+          "package_name": "com.example.realproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668849812154-eeckn3bfeajgq60dlh70omj86pnan63o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realproject",
+            "certificate_hash": "dadf87975de5b82377229ad31e042947c67cb5cd"
+          }
+        },
+        {
+          "client_id": "668849812154-95jkrtas1q11qhqpnfermnk2qg76aktm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlhdIXNLesUrD0HSsHdiiZaGCk5EY6zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668849812154-95jkrtas1q11qhqpnfermnk2qg76aktm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668849812154:android:2814926a59ec7299",
+        "android_client_info": {
+          "package_name": "com.example.roomrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668849812154-5tqef6m0bdp7h2e1q5pas3ghm94g0j8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomrental",
+            "certificate_hash": "dadf87975de5b82377229ad31e042947c67cb5cd"
+          }
+        },
+        {
+          "client_id": "668849812154-95jkrtas1q11qhqpnfermnk2qg76aktm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlhdIXNLesUrD0HSsHdiiZaGCk5EY6zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668849812154-95jkrtas1q11qhqpnfermnk2qg76aktm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
